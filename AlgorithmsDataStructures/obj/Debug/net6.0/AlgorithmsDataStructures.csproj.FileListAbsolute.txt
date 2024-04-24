@@ -1,0 +1,56 @@
+C:\Users\osins\Desktop\Box\Code Preperation\AlgorithmsDataStructures\AlgorithmsDataStructures\bin\Debug\net6.0\AlgorithmsDataStructures.exe
+C:\Users\osins\Desktop\Box\Code Preperation\AlgorithmsDataStructures\AlgorithmsDataStructures\bin\Debug\net6.0\AlgorithmsDataStructures.deps.json
+C:\Users\osins\Desktop\Box\Code Preperation\AlgorithmsDataStructures\AlgorithmsDataStructures\bin\Debug\net6.0\AlgorithmsDataStructures.runtimeconfig.json
+C:\Users\osins\Desktop\Box\Code Preperation\AlgorithmsDataStructures\AlgorithmsDataStructures\bin\Debug\net6.0\AlgorithmsDataStructures.dll
+C:\Users\osins\Desktop\Box\Code Preperation\AlgorithmsDataStructures\AlgorithmsDataStructures\bin\Debug\net6.0\AlgorithmsDataStructures.pdb
+C:\Users\osins\Desktop\Box\Code Preperation\AlgorithmsDataStructures\AlgorithmsDataStructures\obj\Debug\net6.0\AlgorithmsDataStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osins\Desktop\Box\Code Preperation\AlgorithmsDataStructures\AlgorithmsDataStructures\obj\Debug\net6.0\AlgorithmsDataStructures.AssemblyInfoInputs.cache
+C:\Users\osins\Desktop\Box\Code Preperation\AlgorithmsDataStructures\AlgorithmsDataStructures\obj\Debug\net6.0\AlgorithmsDataStructures.AssemblyInfo.cs
+C:\Users\osins\Desktop\Box\Code Preperation\AlgorithmsDataStructures\AlgorithmsDataStructures\obj\Debug\net6.0\AlgorithmsDataStructures.csproj.CoreCompileInputs.cache
+C:\Users\osins\Desktop\Box\Code Preperation\AlgorithmsDataStructures\AlgorithmsDataStructures\obj\Debug\net6.0\AlgorithmsDataStructures.dll
+C:\Users\osins\Desktop\Box\Code Preperation\AlgorithmsDataStructures\AlgorithmsDataStructures\obj\Debug\net6.0\refint\AlgorithmsDataStructures.dll
+C:\Users\osins\Desktop\Box\Code Preperation\AlgorithmsDataStructures\AlgorithmsDataStructures\obj\Debug\net6.0\AlgorithmsDataStructures.pdb
+C:\Users\osins\Desktop\Box\Code Preperation\AlgorithmsDataStructures\AlgorithmsDataStructures\obj\Debug\net6.0\AlgorithmsDataStructures.genruntimeconfig.cache
+C:\Users\osins\Desktop\Box\Code Preperation\AlgorithmsDataStructures\AlgorithmsDataStructures\obj\Debug\net6.0\ref\AlgorithmsDataStructures.dll
+C:\Users\osins\Desktop\Poszukiwanie pracy\Box\Code Preperation\AlgorithmsDataStructures\AlgorithmsDataStructures\bin\Debug\net6.0\AlgorithmsDataStructures.exe
+C:\Users\osins\Desktop\Poszukiwanie pracy\Box\Code Preperation\AlgorithmsDataStructures\AlgorithmsDataStructures\bin\Debug\net6.0\AlgorithmsDataStructures.deps.json
+C:\Users\osins\Desktop\Poszukiwanie pracy\Box\Code Preperation\AlgorithmsDataStructures\AlgorithmsDataStructures\bin\Debug\net6.0\AlgorithmsDataStructures.runtimeconfig.json
+C:\Users\osins\Desktop\Poszukiwanie pracy\Box\Code Preperation\AlgorithmsDataStructures\AlgorithmsDataStructures\bin\Debug\net6.0\AlgorithmsDataStructures.dll
+C:\Users\osins\Desktop\Poszukiwanie pracy\Box\Code Preperation\AlgorithmsDataStructures\AlgorithmsDataStructures\bin\Debug\net6.0\AlgorithmsDataStructures.pdb
+C:\Users\osins\Desktop\Poszukiwanie pracy\Box\Code Preperation\AlgorithmsDataStructures\AlgorithmsDataStructures\obj\Debug\net6.0\AlgorithmsDataStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osins\Desktop\Poszukiwanie pracy\Box\Code Preperation\AlgorithmsDataStructures\AlgorithmsDataStructures\obj\Debug\net6.0\AlgorithmsDataStructures.AssemblyInfoInputs.cache
+C:\Users\osins\Desktop\Poszukiwanie pracy\Box\Code Preperation\AlgorithmsDataStructures\AlgorithmsDataStructures\obj\Debug\net6.0\AlgorithmsDataStructures.AssemblyInfo.cs
+C:\Users\osins\Desktop\Poszukiwanie pracy\Box\Code Preperation\AlgorithmsDataStructures\AlgorithmsDataStructures\obj\Debug\net6.0\AlgorithmsDataStructures.csproj.CoreCompileInputs.cache
+C:\Users\osins\Desktop\Poszukiwanie pracy\Box\Code Preperation\AlgorithmsDataStructures\AlgorithmsDataStructures\obj\Debug\net6.0\AlgorithmsDataStructures.dll
+C:\Users\osins\Desktop\Poszukiwanie pracy\Box\Code Preperation\AlgorithmsDataStructures\AlgorithmsDataStructures\obj\Debug\net6.0\refint\AlgorithmsDataStructures.dll
+C:\Users\osins\Desktop\Poszukiwanie pracy\Box\Code Preperation\AlgorithmsDataStructures\AlgorithmsDataStructures\obj\Debug\net6.0\AlgorithmsDataStructures.pdb
+C:\Users\osins\Desktop\Poszukiwanie pracy\Box\Code Preperation\AlgorithmsDataStructures\AlgorithmsDataStructures\obj\Debug\net6.0\AlgorithmsDataStructures.genruntimeconfig.cache
+C:\Users\osins\Desktop\Poszukiwanie pracy\Box\Code Preperation\AlgorithmsDataStructures\AlgorithmsDataStructures\obj\Debug\net6.0\ref\AlgorithmsDataStructures.dll
+C:\Users\osins\Desktop\Poszukiwanie pracy\Failed\Box - failed\Code Preperation\AlgorithmsDataStructures\AlgorithmsDataStructures\bin\Debug\net6.0\AlgorithmsDataStructures.exe
+C:\Users\osins\Desktop\Poszukiwanie pracy\Failed\Box - failed\Code Preperation\AlgorithmsDataStructures\AlgorithmsDataStructures\bin\Debug\net6.0\AlgorithmsDataStructures.deps.json
+C:\Users\osins\Desktop\Poszukiwanie pracy\Failed\Box - failed\Code Preperation\AlgorithmsDataStructures\AlgorithmsDataStructures\bin\Debug\net6.0\AlgorithmsDataStructures.runtimeconfig.json
+C:\Users\osins\Desktop\Poszukiwanie pracy\Failed\Box - failed\Code Preperation\AlgorithmsDataStructures\AlgorithmsDataStructures\bin\Debug\net6.0\AlgorithmsDataStructures.dll
+C:\Users\osins\Desktop\Poszukiwanie pracy\Failed\Box - failed\Code Preperation\AlgorithmsDataStructures\AlgorithmsDataStructures\bin\Debug\net6.0\AlgorithmsDataStructures.pdb
+C:\Users\osins\Desktop\Poszukiwanie pracy\Failed\Box - failed\Code Preperation\AlgorithmsDataStructures\AlgorithmsDataStructures\obj\Debug\net6.0\AlgorithmsDataStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osins\Desktop\Poszukiwanie pracy\Failed\Box - failed\Code Preperation\AlgorithmsDataStructures\AlgorithmsDataStructures\obj\Debug\net6.0\AlgorithmsDataStructures.AssemblyInfoInputs.cache
+C:\Users\osins\Desktop\Poszukiwanie pracy\Failed\Box - failed\Code Preperation\AlgorithmsDataStructures\AlgorithmsDataStructures\obj\Debug\net6.0\AlgorithmsDataStructures.AssemblyInfo.cs
+C:\Users\osins\Desktop\Poszukiwanie pracy\Failed\Box - failed\Code Preperation\AlgorithmsDataStructures\AlgorithmsDataStructures\obj\Debug\net6.0\AlgorithmsDataStructures.csproj.CoreCompileInputs.cache
+C:\Users\osins\Desktop\Poszukiwanie pracy\Failed\Box - failed\Code Preperation\AlgorithmsDataStructures\AlgorithmsDataStructures\obj\Debug\net6.0\AlgorithmsDataStructures.dll
+C:\Users\osins\Desktop\Poszukiwanie pracy\Failed\Box - failed\Code Preperation\AlgorithmsDataStructures\AlgorithmsDataStructures\obj\Debug\net6.0\refint\AlgorithmsDataStructures.dll
+C:\Users\osins\Desktop\Poszukiwanie pracy\Failed\Box - failed\Code Preperation\AlgorithmsDataStructures\AlgorithmsDataStructures\obj\Debug\net6.0\AlgorithmsDataStructures.pdb
+C:\Users\osins\Desktop\Poszukiwanie pracy\Failed\Box - failed\Code Preperation\AlgorithmsDataStructures\AlgorithmsDataStructures\obj\Debug\net6.0\AlgorithmsDataStructures.genruntimeconfig.cache
+C:\Users\osins\Desktop\Poszukiwanie pracy\Failed\Box - failed\Code Preperation\AlgorithmsDataStructures\AlgorithmsDataStructures\obj\Debug\net6.0\ref\AlgorithmsDataStructures.dll
+C:\Users\osins\Desktop\Portfolio\C#\AlgorithmsAndDataStructures\AlgorithmsDataStructures\bin\Debug\net6.0\AlgorithmsDataStructures.exe
+C:\Users\osins\Desktop\Portfolio\C#\AlgorithmsAndDataStructures\AlgorithmsDataStructures\bin\Debug\net6.0\AlgorithmsDataStructures.deps.json
+C:\Users\osins\Desktop\Portfolio\C#\AlgorithmsAndDataStructures\AlgorithmsDataStructures\bin\Debug\net6.0\AlgorithmsDataStructures.runtimeconfig.json
+C:\Users\osins\Desktop\Portfolio\C#\AlgorithmsAndDataStructures\AlgorithmsDataStructures\bin\Debug\net6.0\AlgorithmsDataStructures.dll
+C:\Users\osins\Desktop\Portfolio\C#\AlgorithmsAndDataStructures\AlgorithmsDataStructures\bin\Debug\net6.0\AlgorithmsDataStructures.pdb
+C:\Users\osins\Desktop\Portfolio\C#\AlgorithmsAndDataStructures\AlgorithmsDataStructures\obj\Debug\net6.0\AlgorithmsDataStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osins\Desktop\Portfolio\C#\AlgorithmsAndDataStructures\AlgorithmsDataStructures\obj\Debug\net6.0\AlgorithmsDataStructures.AssemblyInfoInputs.cache
+C:\Users\osins\Desktop\Portfolio\C#\AlgorithmsAndDataStructures\AlgorithmsDataStructures\obj\Debug\net6.0\AlgorithmsDataStructures.AssemblyInfo.cs
+C:\Users\osins\Desktop\Portfolio\C#\AlgorithmsAndDataStructures\AlgorithmsDataStructures\obj\Debug\net6.0\AlgorithmsDataStructures.csproj.CoreCompileInputs.cache
+C:\Users\osins\Desktop\Portfolio\C#\AlgorithmsAndDataStructures\AlgorithmsDataStructures\obj\Debug\net6.0\AlgorithmsDataStructures.dll
+C:\Users\osins\Desktop\Portfolio\C#\AlgorithmsAndDataStructures\AlgorithmsDataStructures\obj\Debug\net6.0\refint\AlgorithmsDataStructures.dll
+C:\Users\osins\Desktop\Portfolio\C#\AlgorithmsAndDataStructures\AlgorithmsDataStructures\obj\Debug\net6.0\AlgorithmsDataStructures.pdb
+C:\Users\osins\Desktop\Portfolio\C#\AlgorithmsAndDataStructures\AlgorithmsDataStructures\obj\Debug\net6.0\AlgorithmsDataStructures.genruntimeconfig.cache
+C:\Users\osins\Desktop\Portfolio\C#\AlgorithmsAndDataStructures\AlgorithmsDataStructures\obj\Debug\net6.0\ref\AlgorithmsDataStructures.dll

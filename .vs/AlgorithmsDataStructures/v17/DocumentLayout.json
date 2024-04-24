@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\osins\\Desktop\\Portfolio\\C#\\AlgorithmsAndDataStructures\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5F1BF1-199F-49B1-BA72-B1B3A1688645}|AlgorithmsDataStructures\\AlgorithmsDataStructures.csproj|c:\\users\\osins\\desktop\\portfolio\\c#\\algorithmsanddatastructures\\algorithmsdatastructures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5F1BF1-199F-49B1-BA72-B1B3A1688645}|AlgorithmsDataStructures\\AlgorithmsDataStructures.csproj|solutionrelative:algorithmsdatastructures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5F1BF1-199F-49B1-BA72-B1B3A1688645}|AlgorithmsDataStructures\\AlgorithmsDataStructures.csproj|c:\\users\\osins\\desktop\\portfolio\\c#\\algorithmsanddatastructures\\algorithmsdatastructures\\arrayoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5F1BF1-199F-49B1-BA72-B1B3A1688645}|AlgorithmsDataStructures\\AlgorithmsDataStructures.csproj|solutionrelative:algorithmsdatastructures\\arrayoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5F1BF1-199F-49B1-BA72-B1B3A1688645}|AlgorithmsDataStructures\\AlgorithmsDataStructures.csproj|c:\\users\\osins\\desktop\\portfolio\\c#\\algorithmsanddatastructures\\algorithmsdatastructures\\stack\\stacklinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5F1BF1-199F-49B1-BA72-B1B3A1688645}|AlgorithmsDataStructures\\AlgorithmsDataStructures.csproj|solutionrelative:algorithmsdatastructures\\stack\\stacklinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5F1BF1-199F-49B1-BA72-B1B3A1688645}|AlgorithmsDataStructures\\AlgorithmsDataStructures.csproj|c:\\users\\osins\\desktop\\portfolio\\c#\\algorithmsanddatastructures\\algorithmsdatastructures\\stack\\stackarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5F1BF1-199F-49B1-BA72-B1B3A1688645}|AlgorithmsDataStructures\\AlgorithmsDataStructures.csproj|solutionrelative:algorithmsdatastructures\\stack\\stackarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5F1BF1-199F-49B1-BA72-B1B3A1688645}|AlgorithmsDataStructures\\AlgorithmsDataStructures.csproj|c:\\users\\osins\\desktop\\portfolio\\c#\\algorithmsanddatastructures\\algorithmsdatastructures\\sort\\mergesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5F1BF1-199F-49B1-BA72-B1B3A1688645}|AlgorithmsDataStructures\\AlgorithmsDataStructures.csproj|solutionrelative:algorithmsdatastructures\\sort\\mergesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5F1BF1-199F-49B1-BA72-B1B3A1688645}|AlgorithmsDataStructures\\AlgorithmsDataStructures.csproj|c:\\users\\osins\\desktop\\portfolio\\c#\\algorithmsanddatastructures\\algorithmsdatastructures\\sort\\bubblesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5F1BF1-199F-49B1-BA72-B1B3A1688645}|AlgorithmsDataStructures\\AlgorithmsDataStructures.csproj|solutionrelative:algorithmsdatastructures\\sort\\bubblesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5F1BF1-199F-49B1-BA72-B1B3A1688645}|AlgorithmsDataStructures\\AlgorithmsDataStructures.csproj|c:\\users\\osins\\desktop\\portfolio\\c#\\algorithmsanddatastructures\\algorithmsdatastructures\\recursion\\recursion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5F1BF1-199F-49B1-BA72-B1B3A1688645}|AlgorithmsDataStructures\\AlgorithmsDataStructures.csproj|solutionrelative:algorithmsdatastructures\\recursion\\recursion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5F1BF1-199F-49B1-BA72-B1B3A1688645}|AlgorithmsDataStructures\\AlgorithmsDataStructures.csproj|c:\\users\\osins\\desktop\\portfolio\\c#\\algorithmsanddatastructures\\algorithmsdatastructures\\queue\\queuelinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5F1BF1-199F-49B1-BA72-B1B3A1688645}|AlgorithmsDataStructures\\AlgorithmsDataStructures.csproj|solutionrelative:algorithmsdatastructures\\queue\\queuelinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5F1BF1-199F-49B1-BA72-B1B3A1688645}|AlgorithmsDataStructures\\AlgorithmsDataStructures.csproj|c:\\users\\osins\\desktop\\portfolio\\c#\\algorithmsanddatastructures\\algorithmsdatastructures\\queue\\queuearray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5F1BF1-199F-49B1-BA72-B1B3A1688645}|AlgorithmsDataStructures\\AlgorithmsDataStructures.csproj|solutionrelative:algorithmsdatastructures\\queue\\queuearray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5F1BF1-199F-49B1-BA72-B1B3A1688645}|AlgorithmsDataStructures\\AlgorithmsDataStructures.csproj|c:\\users\\osins\\desktop\\portfolio\\c#\\algorithmsanddatastructures\\algorithmsdatastructures\\queue\\iqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5F1BF1-199F-49B1-BA72-B1B3A1688645}|AlgorithmsDataStructures\\AlgorithmsDataStructures.csproj|solutionrelative:algorithmsdatastructures\\queue\\iqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5F1BF1-199F-49B1-BA72-B1B3A1688645}|AlgorithmsDataStructures\\AlgorithmsDataStructures.csproj|c:\\users\\osins\\desktop\\portfolio\\c#\\algorithmsanddatastructures\\algorithmsdatastructures\\linkedlist\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5F1BF1-199F-49B1-BA72-B1B3A1688645}|AlgorithmsDataStructures\\AlgorithmsDataStructures.csproj|solutionrelative:algorithmsdatastructures\\linkedlist\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5F1BF1-199F-49B1-BA72-B1B3A1688645}|AlgorithmsDataStructures\\AlgorithmsDataStructures.csproj|c:\\users\\osins\\desktop\\portfolio\\c#\\algorithmsanddatastructures\\algorithmsdatastructures\\linkedlist\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5F1BF1-199F-49B1-BA72-B1B3A1688645}|AlgorithmsDataStructures\\AlgorithmsDataStructures.csproj|solutionrelative:algorithmsdatastructures\\linkedlist\\linkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5F1BF1-199F-49B1-BA72-B1B3A1688645}|AlgorithmsDataStructures\\AlgorithmsDataStructures.csproj|c:\\users\\osins\\desktop\\portfolio\\c#\\algorithmsanddatastructures\\algorithmsdatastructures\\graphs\\graphadjacencymatrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5F1BF1-199F-49B1-BA72-B1B3A1688645}|AlgorithmsDataStructures\\AlgorithmsDataStructures.csproj|solutionrelative:algorithmsdatastructures\\graphs\\graphadjacencymatrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5F1BF1-199F-49B1-BA72-B1B3A1688645}|AlgorithmsDataStructures\\AlgorithmsDataStructures.csproj|c:\\users\\osins\\desktop\\portfolio\\c#\\algorithmsanddatastructures\\algorithmsdatastructures\\graphs\\graphadjacencylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5F1BF1-199F-49B1-BA72-B1B3A1688645}|AlgorithmsDataStructures\\AlgorithmsDataStructures.csproj|solutionrelative:algorithmsdatastructures\\graphs\\graphadjacencylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5F1BF1-199F-49B1-BA72-B1B3A1688645}|AlgorithmsDataStructures\\AlgorithmsDataStructures.csproj|c:\\users\\osins\\desktop\\portfolio\\c#\\algorithmsanddatastructures\\algorithmsdatastructures\\binarysearch\\binarysearchtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5F1BF1-199F-49B1-BA72-B1B3A1688645}|AlgorithmsDataStructures\\AlgorithmsDataStructures.csproj|solutionrelative:algorithmsdatastructures\\binarysearch\\binarysearchtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5F1BF1-199F-49B1-BA72-B1B3A1688645}|AlgorithmsDataStructures\\AlgorithmsDataStructures.csproj|c:\\users\\osins\\desktop\\portfolio\\c#\\algorithmsanddatastructures\\algorithmsdatastructures\\binarysearch\\binarysearcharray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5F1BF1-199F-49B1-BA72-B1B3A1688645}|AlgorithmsDataStructures\\AlgorithmsDataStructures.csproj|solutionrelative:algorithmsdatastructures\\binarysearch\\binarysearcharray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 253,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BubbleSort.cs",
+              "DocumentMoniker": "C:\\Users\\osins\\Desktop\\Portfolio\\C#\\AlgorithmsAndDataStructures\\AlgorithmsDataStructures\\Sort\\BubbleSort.cs",
+              "RelativeDocumentMoniker": "AlgorithmsDataStructures\\Sort\\BubbleSort.cs",
+              "ToolTip": "C:\\Users\\osins\\Desktop\\Portfolio\\C#\\AlgorithmsAndDataStructures\\AlgorithmsDataStructures\\Sort\\BubbleSort.cs",
+              "RelativeToolTip": "AlgorithmsDataStructures\\Sort\\BubbleSort.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T01:00:17.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\osins\\Desktop\\Portfolio\\C#\\AlgorithmsAndDataStructures\\AlgorithmsDataStructures\\LinkedList\\LinkedList.cs",
+              "RelativeDocumentMoniker": "AlgorithmsDataStructures\\LinkedList\\LinkedList.cs",
+              "ToolTip": "C:\\Users\\osins\\Desktop\\Portfolio\\C#\\AlgorithmsAndDataStructures\\AlgorithmsDataStructures\\LinkedList\\LinkedList.cs",
+              "RelativeToolTip": "AlgorithmsDataStructures\\LinkedList\\LinkedList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T00:59:50.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IQueue.cs",
+              "DocumentMoniker": "C:\\Users\\osins\\Desktop\\Portfolio\\C#\\AlgorithmsAndDataStructures\\AlgorithmsDataStructures\\Queue\\IQueue.cs",
+              "RelativeDocumentMoniker": "AlgorithmsDataStructures\\Queue\\IQueue.cs",
+              "ToolTip": "C:\\Users\\osins\\Desktop\\Portfolio\\C#\\AlgorithmsAndDataStructures\\AlgorithmsDataStructures\\Queue\\IQueue.cs",
+              "RelativeToolTip": "AlgorithmsDataStructures\\Queue\\IQueue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T00:59:55.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QueueArray.cs",
+              "DocumentMoniker": "C:\\Users\\osins\\Desktop\\Portfolio\\C#\\AlgorithmsAndDataStructures\\AlgorithmsDataStructures\\Queue\\QueueArray.cs",
+              "RelativeDocumentMoniker": "AlgorithmsDataStructures\\Queue\\QueueArray.cs",
+              "ToolTip": "C:\\Users\\osins\\Desktop\\Portfolio\\C#\\AlgorithmsAndDataStructures\\AlgorithmsDataStructures\\Queue\\QueueArray.cs",
+              "RelativeToolTip": "AlgorithmsDataStructures\\Queue\\QueueArray.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T00:59:56.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QueueLinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\osins\\Desktop\\Portfolio\\C#\\AlgorithmsAndDataStructures\\AlgorithmsDataStructures\\Queue\\QueueLinkedList.cs",
+              "RelativeDocumentMoniker": "AlgorithmsDataStructures\\Queue\\QueueLinkedList.cs",
+              "ToolTip": "C:\\Users\\osins\\Desktop\\Portfolio\\C#\\AlgorithmsAndDataStructures\\AlgorithmsDataStructures\\Queue\\QueueLinkedList.cs",
+              "RelativeToolTip": "AlgorithmsDataStructures\\Queue\\QueueLinkedList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T01:00:09.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Recursion.cs",
+              "DocumentMoniker": "C:\\Users\\osins\\Desktop\\Portfolio\\C#\\AlgorithmsAndDataStructures\\AlgorithmsDataStructures\\Recursion\\Recursion.cs",
+              "RelativeDocumentMoniker": "AlgorithmsDataStructures\\Recursion\\Recursion.cs",
+              "ToolTip": "C:\\Users\\osins\\Desktop\\Portfolio\\C#\\AlgorithmsAndDataStructures\\AlgorithmsDataStructures\\Recursion\\Recursion.cs",
+              "RelativeToolTip": "AlgorithmsDataStructures\\Recursion\\Recursion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T14:17:24.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MergeSort.cs",
+              "DocumentMoniker": "C:\\Users\\osins\\Desktop\\Portfolio\\C#\\AlgorithmsAndDataStructures\\AlgorithmsDataStructures\\Sort\\MergeSort.cs",
+              "RelativeDocumentMoniker": "AlgorithmsDataStructures\\Sort\\MergeSort.cs",
+              "ToolTip": "C:\\Users\\osins\\Desktop\\Portfolio\\C#\\AlgorithmsAndDataStructures\\AlgorithmsDataStructures\\Sort\\MergeSort.cs",
+              "RelativeToolTip": "AlgorithmsDataStructures\\Sort\\MergeSort.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAowE8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T14:16:36.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StackArray.cs",
+              "DocumentMoniker": "C:\\Users\\osins\\Desktop\\Portfolio\\C#\\AlgorithmsAndDataStructures\\AlgorithmsDataStructures\\Stack\\StackArray.cs",
+              "RelativeDocumentMoniker": "AlgorithmsDataStructures\\Stack\\StackArray.cs",
+              "ToolTip": "C:\\Users\\osins\\Desktop\\Portfolio\\C#\\AlgorithmsAndDataStructures\\AlgorithmsDataStructures\\Stack\\StackArray.cs",
+              "RelativeToolTip": "AlgorithmsDataStructures\\Stack\\StackArray.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T01:07:55.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StackLinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\osins\\Desktop\\Portfolio\\C#\\AlgorithmsAndDataStructures\\AlgorithmsDataStructures\\Stack\\StackLinkedList.cs",
+              "RelativeDocumentMoniker": "AlgorithmsDataStructures\\Stack\\StackLinkedList.cs",
+              "ToolTip": "C:\\Users\\osins\\Desktop\\Portfolio\\C#\\AlgorithmsAndDataStructures\\AlgorithmsDataStructures\\Stack\\StackLinkedList.cs",
+              "RelativeToolTip": "AlgorithmsDataStructures\\Stack\\StackLinkedList.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAuwBYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T01:07:53.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArrayOperations.cs",
+              "DocumentMoniker": "C:\\Users\\osins\\Desktop\\Portfolio\\C#\\AlgorithmsAndDataStructures\\AlgorithmsDataStructures\\ArrayOperations.cs",
+              "RelativeDocumentMoniker": "AlgorithmsDataStructures\\ArrayOperations.cs",
+              "ToolTip": "C:\\Users\\osins\\Desktop\\Portfolio\\C#\\AlgorithmsAndDataStructures\\AlgorithmsDataStructures\\ArrayOperations.cs",
+              "RelativeToolTip": "AlgorithmsDataStructures\\ArrayOperations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T01:02:12.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\osins\\Desktop\\Portfolio\\C#\\AlgorithmsAndDataStructures\\AlgorithmsDataStructures\\Program.cs",
+              "RelativeDocumentMoniker": "AlgorithmsDataStructures\\Program.cs",
+              "ToolTip": "C:\\Users\\osins\\Desktop\\Portfolio\\C#\\AlgorithmsAndDataStructures\\AlgorithmsDataStructures\\Program.cs",
+              "RelativeToolTip": "AlgorithmsDataStructures\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T01:00:31.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\osins\\Desktop\\Portfolio\\C#\\AlgorithmsAndDataStructures\\AlgorithmsDataStructures\\LinkedList\\Node.cs",
+              "RelativeDocumentMoniker": "AlgorithmsDataStructures\\LinkedList\\Node.cs",
+              "ToolTip": "C:\\Users\\osins\\Desktop\\Portfolio\\C#\\AlgorithmsAndDataStructures\\AlgorithmsDataStructures\\LinkedList\\Node.cs",
+              "RelativeToolTip": "AlgorithmsDataStructures\\LinkedList\\Node.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T00:59:53.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GraphAdjacencyMatrix.cs",
+              "DocumentMoniker": "C:\\Users\\osins\\Desktop\\Portfolio\\C#\\AlgorithmsAndDataStructures\\AlgorithmsDataStructures\\Graphs\\GraphAdjacencyMatrix.cs",
+              "RelativeDocumentMoniker": "AlgorithmsDataStructures\\Graphs\\GraphAdjacencyMatrix.cs",
+              "ToolTip": "C:\\Users\\osins\\Desktop\\Portfolio\\C#\\AlgorithmsAndDataStructures\\AlgorithmsDataStructures\\Graphs\\GraphAdjacencyMatrix.cs",
+              "RelativeToolTip": "AlgorithmsDataStructures\\Graphs\\GraphAdjacencyMatrix.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAwDgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T14:31:49.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GraphAdjacencyList.cs",
+              "DocumentMoniker": "C:\\Users\\osins\\Desktop\\Portfolio\\C#\\AlgorithmsAndDataStructures\\AlgorithmsDataStructures\\Graphs\\GraphAdjacencyList.cs",
+              "RelativeDocumentMoniker": "AlgorithmsDataStructures\\Graphs\\GraphAdjacencyList.cs",
+              "ToolTip": "C:\\Users\\osins\\Desktop\\Portfolio\\C#\\AlgorithmsAndDataStructures\\AlgorithmsDataStructures\\Graphs\\GraphAdjacencyList.cs",
+              "RelativeToolTip": "AlgorithmsDataStructures\\Graphs\\GraphAdjacencyList.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowAwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T00:59:40.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BinarySearchTree.cs",
+              "DocumentMoniker": "C:\\Users\\osins\\Desktop\\Portfolio\\C#\\AlgorithmsAndDataStructures\\AlgorithmsDataStructures\\BinarySearch\\BinarySearchTree.cs",
+              "RelativeDocumentMoniker": "AlgorithmsDataStructures\\BinarySearch\\BinarySearchTree.cs",
+              "ToolTip": "C:\\Users\\osins\\Desktop\\Portfolio\\C#\\AlgorithmsAndDataStructures\\AlgorithmsDataStructures\\BinarySearch\\BinarySearchTree.cs",
+              "RelativeToolTip": "AlgorithmsDataStructures\\BinarySearch\\BinarySearchTree.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAAAA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T12:49:38.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BinarySearchArray.cs",
+              "DocumentMoniker": "C:\\Users\\osins\\Desktop\\Portfolio\\C#\\AlgorithmsAndDataStructures\\AlgorithmsDataStructures\\BinarySearch\\BinarySearchArray.cs",
+              "RelativeDocumentMoniker": "AlgorithmsDataStructures\\BinarySearch\\BinarySearchArray.cs",
+              "ToolTip": "C:\\Users\\osins\\Desktop\\Portfolio\\C#\\AlgorithmsAndDataStructures\\AlgorithmsDataStructures\\BinarySearch\\BinarySearchArray.cs",
+              "RelativeToolTip": "AlgorithmsDataStructures\\BinarySearch\\BinarySearchArray.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAqwBoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T12:49:32.277Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
